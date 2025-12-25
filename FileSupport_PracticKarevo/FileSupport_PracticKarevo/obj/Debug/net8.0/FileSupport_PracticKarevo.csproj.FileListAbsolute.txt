@@ -1,0 +1,14 @@
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\bin\Debug\net8.0\FileSupport_PracticKarevo.exe
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\bin\Debug\net8.0\FileSupport_PracticKarevo.deps.json
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\bin\Debug\net8.0\FileSupport_PracticKarevo.runtimeconfig.json
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\bin\Debug\net8.0\FileSupport_PracticKarevo.dll
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\bin\Debug\net8.0\FileSupport_PracticKarevo.pdb
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\FileSupport_PracticKarevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\FileSupport_PracticKarevo.AssemblyInfoInputs.cache
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\FileSupport_PracticKarevo.AssemblyInfo.cs
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\FileSupport_PracticKarevo.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\FileSupport_PracticKarevo.dll
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\refint\FileSupport_PracticKarevo.dll
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\FileSupport_PracticKarevo.pdb
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\FileSupport_PracticKarevo.genruntimeconfig.cache
+C:\Users\Хозяин\source\repos\FileSupport_PracticKarevo\FileSupport_PracticKarevo\obj\Debug\net8.0\ref\FileSupport_PracticKarevo.dll
